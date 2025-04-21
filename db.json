@@ -1,5 +1,87 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0lief",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "fglbtvxkxq0w",
+      "Area": [
+    {
+          "key": "HK",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.7gain.cc/home?channel=gp_apk",
+          "code": "",
+       "codeinfo": ""
+        },
+        {
+          "key": "BR",
+          "name": "1",
+          "value": "https://ww",
+          "code": "", 
+          "valueinfo": "w.7gain.cc/home?channel=gp_apk",
+          "codeinfo": ""
+        },
+           {
+          "key": "PH",
+          "name": "1",
+          "value": "https://ww",
+          "code": "", 
+          "valueinfo": "w.7gain.cc/home?channel=gp_apk",
+          "codeinfo": ""
+        },
+        {
+          "key":"MX",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
+          "code": "1"
+        }, {
+          "key":"ID",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
+          "code": "1"
+        }, {
+          "key":"BD",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
+          "code": "1"
+        }, {
+          "key":"NG",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
+          "code": "1"
+        }, {
+          "key":"KE",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7gain.cc/home",
+          "code": "1"
+        },{
+          "key":"IN",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
+          "code": "1"
+        }
+      ],
+      "Event": [
+        "test"
+      ],
+      "ID": [
+        "testid"
+      ],
+      "quertip": [
+      ]
+    }
+  }
 }
